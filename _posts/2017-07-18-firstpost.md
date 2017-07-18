@@ -4,7 +4,7 @@ title: 'My First Blog Post'
 date: 2017-07-18 4:27:34
 categories: Nature
 tags: sky
-featured_image: 'https://farm4.staticflickr.com/3282/2665149334_f674d1f296_z_d.jpg'
+featured_image: 'https://farm9.staticflickr.com/8473/8080053135_292367a5ed_m_d.jpg'
 lead_text: 'Sergio Russo - Cloud - Cloud and Sunshine '
 ---
 
