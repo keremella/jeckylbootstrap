@@ -2,10 +2,10 @@
 layout: inner
 title: 'My First Blog Post'
 date: 2017-07-18 4:27:34
-categories: Nature
-tags: sky
-featured_image: 'https://farm9.staticflickr.com/8473/8080053135_292367a5ed_m_d.jpg'
-lead_text: 'Sergio Russo - Cloud - Cloud and Sunshine '
+categories: Cars
+tags: Ferrari
+featured_image: 'https://farm4.staticflickr.com/3666/12574161474_9990f00f15_z_d.jpg'
+lead_text: 'Ferrari F12 '
 ---
 
-This is a Cloud.
+Yes this is a Car!.
